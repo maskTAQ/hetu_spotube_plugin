@@ -6,7 +6,7 @@ homepage: https://github.com/KRTirtho/hetu_spotube_plugin
 publish_to: none
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.5.0
   flutter: ">=1.17.0"
 
 dependencies:
